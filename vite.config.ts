@@ -10,7 +10,7 @@ export default defineConfig({
   ],
   build: {
     lib: {
-      entry: resolve(__dirname, 'src/index.ts'),
+      entry: resolve(__dirname, 'src/index.tsx'),
       name: 'ReactSimpleUsbScanner',
       // Asegúrate de que esto coincida con tu package.json
       fileName: (format) => `react-simple-usb-scanner.${format}.js`,
