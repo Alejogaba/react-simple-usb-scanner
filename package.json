@@ -14,6 +14,33 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "react",
+    "scanner",
+    "usb",
+    "barcode",
+    "barcode-scanner",
+    "barcode-reader",
+    "qr-scanner",
+    "qr-code",
+    "usb-scanner",
+    "usb-barcode",
+    "keyboard-scanner",
+    "pos",
+    "point-of-sale",
+    "inventory",
+    "typescript",
+    "react-typescript",
+    "scan",
+    "reader",
+    "capture",
+    "input-detection",
+    "keyboard-input"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejogaba/react-simple-usb-scanner.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
